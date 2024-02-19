@@ -36,7 +36,7 @@ int main() {
         output << line2 << endl;
         getline(input2, line2);
     }
-
+    
     input1.close();
     input2.close();
     output.close();
